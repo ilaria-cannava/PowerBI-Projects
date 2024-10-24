@@ -10,4 +10,4 @@ Always keep an eye on emerging technologies while staying grounded in strong dat
 
 #DataScience #PowerBI #Python #FundraisingAnalytics #DataVisualisation #CharitySector #TechGrowth
 
-Fundraising and Donors Analytics/Fundraising_analytics.png
+https://github.com/ilaria-cannava/PowerBI-Projects/blob/main/Fundraising%20and%20Donors%20Analytics/Fundraising_analytics.png?raw=true
