@@ -8,4 +8,4 @@ What made the transition to Power BI relatively smooth was my solid foundation i
 
 Always keep an eye on emerging technologies while staying grounded in strong data fundamentals!
 
-hashtag#DataScience hashtag#PowerBI hashtag#Python hashtag#FundraisingAnalytics hashtag#DataVisualisation hashtag#CharitySector hashtag#TechGrowth
+#DataScience #PowerBI #Python #FundraisingAnalytics #DataVisualisation #CharitySector #TechGrowth
