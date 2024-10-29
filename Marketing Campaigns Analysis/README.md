@@ -25,3 +25,7 @@ This project provides actionable insights to help improve marketing strategies a
 In a real situation, there will be integration of real-time data with a mobile dashboard for monitoring campaigns or sales. Considering I can't get any extra information and data I can still produce an attrition predictive model and a customer segmentation using machine learning algorithms. Looking to expand this project by integrating real-time data and implementing advanced analytics features such as predictive modelling.
 
 
+![1-Marketing_Analysis-Overview](https://github.com/user-attachments/assets/63f38cda-ff70-48b2-97a6-0007b3e5d92c)
+![2-Marketing_Analysis-Campaigns](https://github.com/user-attachments/assets/8b89f299-46bb-4395-97f3-29ff50c6d30b)
+![3-Marketing_Analysis-Customers](https://github.com/user-attachments/assets/44c6bf37-6f31-46c1-b728-3b20a923e1ca)
+![4-Marketing_Analysis-Age_Groups](https://github.com/user-attachments/assets/05d08c4a-52e3-4375-a4e2-ded27064f74e)
